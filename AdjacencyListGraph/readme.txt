@@ -1,0 +1,1 @@
+This code represents the graph as adjacency lists.
