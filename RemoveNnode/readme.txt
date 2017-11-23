@@ -1,0 +1,1 @@
+This code removes Nth node from the end in a linked list and returns the linked list.
