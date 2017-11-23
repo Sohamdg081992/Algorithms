@@ -1,0 +1,1 @@
+This java code checks whether a linked list is palindrome or not.
